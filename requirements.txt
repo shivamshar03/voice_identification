@@ -4,6 +4,8 @@ SpeechRecognition
 pydub
 resemblyzer
 sounddevice
+altair>=4.2.2,<5
+
 
 
 
